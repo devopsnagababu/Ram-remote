@@ -13,3 +13,6 @@ def div(a,b):
 
 def sub(a,b)
     Pass
+
+def sup(a,b)
+    pass
