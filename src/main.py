@@ -16,3 +16,6 @@ def sub(a,b)
 
 def sup(a,b)
     pass
+
+def cal(a,b)
+    pass
